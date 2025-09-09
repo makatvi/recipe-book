@@ -1,0 +1,7 @@
+#Pumpkin soup
+
+1 pumkpin in square qubes
+1 tbs salt
+1/2 tbs pepper
+1 liter of water
+1 qube veg stock
