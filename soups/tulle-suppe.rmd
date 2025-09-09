@@ -1,5 +1,6 @@
-#Pumpkin soup
+# Pumpkin soup
 
+## Ingredients
 1 pumkpin in square qubes 
 1 tbs salt 
 1/2 tbs pepper 
